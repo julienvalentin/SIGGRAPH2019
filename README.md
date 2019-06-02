@@ -20,6 +20,13 @@ Deep learning has introduced a profound paradigm change in the recent years, all
         <td align="center">
             <img border="0"  src="https://storage.googleapis.com/tensorflow-graphics/communication/siggraph_2019_course/speakers_portraits/josh.png" width="200" height="200">
         </td>
+    </tr>
+    <tr>
+       <th style="text-align:center">Paige Bailey</th>
+       <th style="text-align:center">Shan Carter</th>
+       <th style="text-align:center">Josh Gordon</th>
+    </tr>
+    <tr>
         <td align="center">
             <img border="0"  src="https://storage.googleapis.com/tensorflow-graphics/communication/siggraph_2019_course/speakers_portraits/christian.png" width="200" height="200">
         </td>
@@ -31,9 +38,6 @@ Deep learning has introduced a profound paradigm change in the recent years, all
         </td>
     </tr>
     <tr>
-       <th style="text-align:center">Paige Bailey</th>
-       <th style="text-align:center">Shan Carter</th>
-       <th style="text-align:center">Josh Gordon</th>
        <th style="text-align:center">Christian Häne</th>
        <th style="text-align:center">Alexander Mordvintsev</th>
        <th style="text-align:center">Julien Valentin</th>
