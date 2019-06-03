@@ -81,3 +81,6 @@ Deep learning has introduced a profound paradigm change in the recent years, all
   </table>
 </div>
 
+## Materials
+
+<a href="https://storage.googleapis.com/tensorflow-graphics/communication/siggraph_2019_course/materials/siggraph_course_2019.pdf">[PDF]</a><a href="https://storage.googleapis.com/tensorflow-graphics/communication/siggraph_2019_course/materials/siggraph_course_2019.pptx">[PPTX]</a>
