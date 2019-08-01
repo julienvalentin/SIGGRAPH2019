@@ -10,9 +10,6 @@ Deep learning has introduced a profound paradigm change in the recent years, all
   <table>
     <tr>
         <td align="center">
-            <img border="0"  src="https://storage.googleapis.com/tensorflow-graphics/communication/siggraph_2019_course/speakers_portraits/paige.png" width="200" height="200">
-        </td>
-        <td align="center">
             <img border="0"  src="https://storage.googleapis.com/tensorflow-graphics/communication/siggraph_2019_course/speakers_portraits/shan.png" width="200" height="200">
         </td>
         <td align="center">
@@ -20,7 +17,6 @@ Deep learning has introduced a profound paradigm change in the recent years, all
         </td>
     </tr>
     <tr>
-       <th style="text-align:center">Paige Bailey</th>
        <th style="text-align:center">Shan Carter</th>
        <th style="text-align:center">Josh Gordon</th>
     </tr>
@@ -29,15 +25,11 @@ Deep learning has introduced a profound paradigm change in the recent years, all
             <img border="0"  src="https://storage.googleapis.com/tensorflow-graphics/communication/siggraph_2019_course/speakers_portraits/christian.png" width="200" height="200">
         </td>
         <td align="center">
-            <img border="0"  src="https://storage.googleapis.com/tensorflow-graphics/communication/siggraph_2019_course/speakers_portraits/alexander.png" width="200" height="200">
-        </td>
-        <td align="center">
             <img border="0"  src="https://storage.googleapis.com/tensorflow-graphics/communication/siggraph_2019_course/speakers_portraits/julien.png" width="200" height="200">
         </td>
     </tr>
     <tr>
        <th style="text-align:center">Christian Häne</th>
-       <th style="text-align:center">Alexander Mordvintsev</th>
        <th style="text-align:center">Julien Valentin</th>
     </tr>
   </table>
@@ -51,13 +43,9 @@ Deep learning has introduced a profound paradigm change in the recent years, all
         <td align="center">
             <img border="0"  src="https://storage.googleapis.com/tensorflow-graphics/communication/siggraph_2019_course/speakers_portraits/sofien.png" width="200" height="200">
         </td>
-        <td align="center">
-            <img border="0"  src="https://storage.googleapis.com/tensorflow-graphics/communication/siggraph_2019_course/speakers_portraits/martin.png" width="200" height="200">
-        </td>
     </tr>
     <tr>
        <th style="text-align:center">Sofien Bouaziz</th>
-       <th style="text-align:center">Martin Wicke</th>
     </tr>
   </table>
 </div>
@@ -83,4 +71,4 @@ Deep learning has introduced a profound paradigm change in the recent years, all
 
 ## Materials
 
-<a href="https://storage.googleapis.com/tensorflow-graphics/communication/siggraph_2019_course/materials/siggraph_course_2019.pdf">[PDF]</a><a href="https://storage.googleapis.com/tensorflow-graphics/communication/siggraph_2019_course/materials/siggraph_course_2019.pptx">[PPTX]</a>
+<a href="https://storage.googleapis.com/tensorflow-graphics/communication/siggraph_2019_course/materials/siggraph_course_2019.pdf">[PDF]</a>
