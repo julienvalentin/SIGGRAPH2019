@@ -22,7 +22,7 @@ Deep learning has introduced a profound paradigm change in the recent years, all
     </tr>
     <tr>
        <th style="text-align:center">Shan Carter</th>
-       <th style="text-align:center">Josh Gordon</th>
+       <th style="text-align:center">Josh Gordon <a href="https://twitter.com/@random_forests">@random_forests</a></th>
     </tr>
     <tr>
         <td align="center">
@@ -34,7 +34,7 @@ Deep learning has introduced a profound paradigm change in the recent years, all
     </tr>
     <tr>
        <th style="text-align:center">Christian Häne</th>
-       <th style="text-align:center">Julien Valentin</th>
+       <th style="text-align:center">Julien Valentin <a href="https://twitter.com/@JPCValentin">@JPCValentin</a></th>
     </tr>
   </table>
 </div>
@@ -49,11 +49,11 @@ Deep learning has introduced a profound paradigm change in the recent years, all
         </td>
     </tr>
     <tr>
-       <th style="text-align:center">Sofien Bouaziz</th>
+       <th style="text-align:center">Sofien Bouaziz <a href="https://twitter.com/@_sofien_">@_sofien_</a></th>
     </tr>
   </table>
 </div>
-
+    
 ## Organizers
 
 <div align="center">
@@ -67,8 +67,8 @@ Deep learning has introduced a profound paradigm change in the recent years, all
         </td>
     </tr>
     <tr>
-       <th style="text-align:center">Julien Valentin</th>
-       <th style="text-align:center">Sofien Bouaziz</th>
+       <th style="text-align:center">Julien Valentin <a href="https://twitter.com/@JPCValentin">@JPCValentin</a></th>
+       <th style="text-align:center">Sofien Bouaziz <a href="https://twitter.com/@_sofien_">@_sofien_</a></th>
     </tr>
   </table>
 </div>
@@ -88,9 +88,10 @@ Deep learning has introduced a profound paradigm change in the recent years, all
         </td>
         </tr>
     <tr>
-       <th style="text-align:center">Paige Bailey <a href="https://twitter.com/DynamicWebPaige">@DynamicWebPaige</th>
+       <th style="text-align:center">Paige Bailey <a href="https://twitter.com/DynamicWebPaige">@DynamicWebPaige</a> </th>
        <th style="text-align:center">Alexander Mordvintsev</th>
-       <th style="text-align:center">Martin Wicke</th>
+       <th style="text-align:center">Martin Wicke <a href="https://twitter.com/@martin_wicke">@martin_wicke</a></th>
     </tr>
   </table>
 </div>
+    
