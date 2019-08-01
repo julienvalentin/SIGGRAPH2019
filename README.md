@@ -35,7 +35,7 @@ Deep learning has introduced a profound paradigm change in the recent years, all
   </table>
 </div>
 
-## Moderators
+## Moderator
 
 <div align="center">
   <table>
@@ -65,6 +65,28 @@ Deep learning has introduced a profound paradigm change in the recent years, all
     <tr>
        <th style="text-align:center">Julien Valentin</th>
        <th style="text-align:center">Sofien Bouaziz</th>
+    </tr>
+  </table>
+</div>
+
+## Special thanks
+<div align="center">
+  <table>
+    <tr>
+        <td align="center">
+            <img border="0"  src="https://storage.googleapis.com/tensorflow-graphics/communication/siggraph_2019_course/speakers_portraits/paige.png" width="200" height="200">
+        </td>
+        <td align="center">
+            <img border="0"  src="https://storage.googleapis.com/tensorflow-graphics/communication/siggraph_2019_course/speakers_portraits/alexander.png" width="200" height="200">
+        </td>
+        <td align="center">
+            <img border="0"  src="https://storage.googleapis.com/tensorflow-graphics/communication/siggraph_2019_course/speakers_portraits/martin.png" width="200" height="200">
+        </td>
+        </tr>
+    <tr>
+       <th style="text-align:center">Paige Bailey</th>
+       <th style="text-align:center">Alexander Mordvintsev</th>
+       <th style="text-align:center">Martin Wicke</th>
     </tr>
   </table>
 </div>
