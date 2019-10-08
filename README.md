@@ -21,7 +21,7 @@ Deep learning has introduced a profound paradigm change in the recent years, all
         </td>
     </tr>
     <tr>
-       <th style="text-align:center">Shan Carter</th>
+       <th style="text-align:center">Shan Carter<a href="https://twitter.com/@shancarter">@shancarter</a></th>
        <th style="text-align:center">Josh Gordon <a href="https://twitter.com/@random_forests">@random_forests</a></th>
     </tr>
     <tr>
@@ -88,8 +88,8 @@ Deep learning has introduced a profound paradigm change in the recent years, all
         </td>
         </tr>
     <tr>
-       <th style="text-align:center">Paige Bailey <a href="https://twitter.com/DynamicWebPaige">@DynamicWebPaige</a> </th>
-       <th style="text-align:center">Alexander Mordvintsev</th>
+       <th style="text-align:center">Paige Bailey <a href="https://twitter.com/@DynamicWebPaige">@DynamicWebPaige</a></th>
+       <th style="text-align:center">Alexander Mordvintsev <a href="https://twitter.com/@zzznah">@zzznah</a></th>
        <th style="text-align:center">Martin Wicke <a href="https://twitter.com/@martin_wicke">@martin_wicke</a></th>
     </tr>
   </table>
