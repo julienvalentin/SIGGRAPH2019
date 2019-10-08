@@ -21,7 +21,7 @@ Deep learning has introduced a profound paradigm change in the recent years, all
         </td>
     </tr>
     <tr>
-       <th style="text-align:center">Shan Carter<a href="https://twitter.com/@shancarter">@shancarter</a></th>
+       <th style="text-align:center">Shan Carter <a href="https://twitter.com/@shancarter">@shancarter</a></th>
        <th style="text-align:center">Josh Gordon <a href="https://twitter.com/@random_forests">@random_forests</a></th>
     </tr>
     <tr>
